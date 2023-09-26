@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 147,
+    "timeDay": 147,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2023-09-26": 0
+      "2023-09-26": 28
     }
   },
   {
@@ -30,11 +30,67 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "bill",
+    "url": "https://bill.okj.name",
+    "icon": "https://icons.duckduckgo.com/ip3/bill.okj.name.ico",
+    "slug": "bill",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 222,
+    "timeDay": 222,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "jack",
+    "url": "https://jack.okj.name",
+    "icon": "https://icons.duckduckgo.com/ip3/jack.okj.name.ico",
+    "slug": "jack",
+    "status": "down",
+    "uptime": "7.18%",
+    "uptimeDay": "7.18%",
+    "uptimeWeek": "7.18%",
+    "uptimeMonth": "7.18%",
+    "uptimeYear": "7.18%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-09-26": 0
+    }
+  },
+  {
+    "name": "river",
+    "url": "https://river.okj.name",
+    "icon": "https://icons.duckduckgo.com/ip3/river.okj.name.ico",
+    "slug": "river",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 131,
+    "timeDay": 131,
+    "timeWeek": 131,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   }
 ]
