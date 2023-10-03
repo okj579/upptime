@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.okj.name.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "70.68%",
+    "uptime": "73.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.68%",
-    "uptimeMonth": "70.68%",
-    "uptimeYear": "70.68%",
+    "uptimeWeek": "73.37%",
+    "uptimeMonth": "73.37%",
+    "uptimeYear": "73.37%",
     "time": 1116,
     "timeDay": 2586,
     "timeWeek": 1116,
@@ -26,9 +26,9 @@
     "url": "https://www.pariseverafter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pariseverafter.com.ico",
     "slug": "paris-ever-after",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 615,
     "timeMonth": 615,
     "timeYear": 615,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "bill",
@@ -74,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 47,
+      "2023-10-03": 950,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -89,9 +91,9 @@
     "url": "https://river.okj.name",
     "icon": "https://icons.duckduckgo.com/ip3/river.okj.name.ico",
     "slug": "river",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,6 +102,8 @@
     "timeWeek": 188,
     "timeMonth": 188,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   }
 ]
