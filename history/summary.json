@@ -27,9 +27,9 @@
     "url": "https://www.pariseverafter.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pariseverafter.com.ico",
     "slug": "paris-ever-after",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -39,6 +39,7 @@
     "timeMonth": 686,
     "timeYear": 670,
     "dailyMinutesDown": {
+      "2023-12-28": 0,
       "2023-10-03": 228
     }
   },
@@ -66,11 +67,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jack.okj.name.ico",
     "slug": "jack",
     "status": "up",
-    "uptime": "74.17%",
+    "uptime": "74.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.17%",
+    "uptimeYear": "74.20%",
     "time": 453,
     "timeDay": 439,
     "timeWeek": 489,
