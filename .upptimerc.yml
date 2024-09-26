@@ -5,14 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Cloud
     url: https://cloud.okj.name
-  - name: Paris Ever After
-    url: https://www.pariseverafter.com
   - name: bill
     url: https://bill.okj.name
   - name: jack
     url: https://jack.okj.name
-  - name: river
-    url: https://river.okj.name
 
 status-website:
   baseUrl: /upptime
