@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
-    "time": 1830,
-    "timeDay": 2459,
-    "timeWeek": 1785,
-    "timeMonth": 1922,
-    "timeYear": 1848,
+    "time": 1829,
+    "timeDay": 1416,
+    "timeWeek": 1591,
+    "timeMonth": 1930,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2024-08-29": 26,
       "2024-07-01": 19,
@@ -46,9 +46,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 279,
-    "timeDay": 167,
-    "timeWeek": 223,
-    "timeMonth": 191,
+    "timeDay": 302,
+    "timeWeek": 227,
+    "timeMonth": 196,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2024-06-19": 21,
@@ -62,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jack.okj.name.ico",
     "slug": "jack",
     "status": "up",
-    "uptime": "92.90%",
+    "uptime": "92.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.73%",
+    "uptimeYear": "96.00%",
     "time": 483,
-    "timeDay": 513,
-    "timeWeek": 492,
-    "timeMonth": 537,
+    "timeDay": 693,
+    "timeWeek": 517,
+    "timeMonth": 544,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2024-08-29": 25,
@@ -95,8 +95,7 @@
       "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
-      "2023-10-11": 1440,
-      "2023-10-10": 1440
+      "2023-10-11": 1440
     }
   }
 ]
