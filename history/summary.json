@@ -8,13 +8,13 @@
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.25%",
-    "time": 1819,
-    "timeDay": 1183,
-    "timeWeek": 1189,
-    "timeMonth": 1601,
-    "timeYear": 1819,
+    "time": 1817,
+    "timeDay": 1061,
+    "timeWeek": 1133,
+    "timeMonth": 1556,
+    "timeYear": 1815,
     "dailyMinutesDown": {
       "2025-01-07": 83,
       "2024-12-01": 31,
@@ -31,8 +31,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 585,
       "2024-02-14": 22,
-      "2024-02-11": 490,
-      "2024-02-08": 110
+      "2024-02-11": 490
     }
   },
   {
@@ -41,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bill.okj.name.ico",
     "slug": "bill",
     "status": "down",
-    "uptime": "98.10%",
+    "uptime": "97.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.71%",
-    "uptimeMonth": "69.15%",
-    "uptimeYear": "97.41%",
+    "uptimeWeek": "5.66%",
+    "uptimeMonth": "65.86%",
+    "uptimeYear": "97.13%",
     "time": 260,
-    "timeDay": 111,
-    "timeWeek": 152,
-    "timeMonth": 192,
+    "timeDay": 71,
+    "timeWeek": 131,
+    "timeMonth": 189,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-02-06": 63,
+      "2025-02-07": 63,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -75,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jack.okj.name.ico",
     "slug": "jack",
     "status": "up",
-    "uptime": "94.61%",
+    "uptime": "94.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 494,
-    "timeDay": 399,
-    "timeWeek": 433,
-    "timeMonth": 486,
+    "timeDay": 403,
+    "timeWeek": 410,
+    "timeMonth": 485,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2024-12-01": 31,
@@ -97,8 +97,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 585,
       "2024-02-14": 22,
-      "2024-02-11": 444,
-      "2024-02-08": 110
+      "2024-02-11": 444
     }
   }
 ]
