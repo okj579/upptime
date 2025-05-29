@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.okj.name.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1841,
-    "timeDay": 1575,
-    "timeWeek": 1752,
-    "timeMonth": 2018,
-    "timeYear": 1806,
+    "time": 1840,
+    "timeDay": 1491,
+    "timeWeek": 1726,
+    "timeMonth": 2011,
+    "timeYear": 1803,
     "dailyMinutesDown": {
       "2025-04-23": 65,
       "2025-04-07": 78,
@@ -27,8 +27,7 @@
       "2024-08-29": 26,
       "2024-07-01": 19,
       "2024-06-19": 22,
-      "2024-06-15": 141,
-      "2024-05-29": 16
+      "2024-06-15": 141
     }
   },
   {
@@ -37,15 +36,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bill.okj.name.ico",
     "slug": "bill",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "87.61%",
-    "time": 262,
-    "timeDay": 181,
-    "timeWeek": 183,
-    "timeMonth": 171,
+    "time": 261,
+    "timeDay": 98,
+    "timeWeek": 157,
+    "timeMonth": 170,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-05-17": 175,
@@ -106,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jack.okj.name.ico",
     "slug": "jack",
     "status": "up",
-    "uptime": "95.57%",
+    "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 585,
-    "timeDay": 535,
-    "timeWeek": 892,
-    "timeMonth": 1050,
-    "timeYear": 612,
+    "time": 588,
+    "timeDay": 1986,
+    "timeWeek": 1083,
+    "timeMonth": 1097,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-04-07": 78,
       "2025-02-16": 86,
@@ -124,8 +123,7 @@
       "2024-10-17": 40,
       "2024-08-29": 25,
       "2024-06-19": 21,
-      "2024-06-15": 141,
-      "2024-05-29": 15
+      "2024-06-15": 141
     }
   }
 ]
